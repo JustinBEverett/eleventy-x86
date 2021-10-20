@@ -10,6 +10,6 @@
   "author": "Justin Everett",
   "license": "ISC",
   "devDependencies": {
-    "eleventy": "^1.0.6"
+    "@11ty/eleventy": "^1.0.6"
   }
 }
